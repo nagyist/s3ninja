@@ -1,4 +1,4 @@
-FROM scireum/sirius-runtime-jdk21:69
+FROM scireum/sirius-runtime-jdk22:74
 
 RUN mkdir /home/sirius/data && \
     mkdir /home/sirius/multipart && \
